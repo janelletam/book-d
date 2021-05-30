@@ -18,4 +18,4 @@ To create this service, the tools we utilized were Qoom, Bootstrap, and GitHub. 
 We are proud of learning how to utilize the tools used to create our project. Since we are beginners, many of these tools were new to us, so we had to learn as we continued conducting our project. One of the things we are most proud of is being able to utilize the Qoom database to store user information when it is input into the sign up page.
 
 ## What is next for this project
-We plan to continue adding to this project by making the webpages our own, and creating a fully functional service later down the road.
+We plan to continue adding to this project by further customizing the webpages to make them more sleek, adding an integrated-chatting interface, and using machine learning algorithms to display profiles that would most suit the user.
