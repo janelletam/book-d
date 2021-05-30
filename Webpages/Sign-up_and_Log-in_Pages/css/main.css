@@ -228,7 +228,7 @@ h6 {
 .btn {
   display: inline-block;
   line-height: 40px;
-  padding: 0 33px;
+  padding: 0 50px;
   font-family: Poppins, Arial, "Helvetica Neue", sans-serif;
   cursor: pointer;
   color: #fff;
@@ -378,6 +378,16 @@ input {
   color: #ccc;
 }
 
+.login-wrapper-footer-text {
+	font-size: 13px;
+	color: #b5b8bd;
+	padding-top: 30px;
+	margin-bottom: 0; 
+}
+    
+a:link {
+  color: #f0941d;
+}
 /* ==========================================================================
    #SELECT2
    ========================================================================== */
