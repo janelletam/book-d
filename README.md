@@ -1,9 +1,9 @@
 Book'd
 ==================
 ## Sources
-https://freefrontend.com/bootstrap-profiles/
-https://bootstrapmade.com/bizland-bootstrap-business-template/
-https://colorlib.com/etc/regform/colorlib-regform-3/
+https://freefrontend.com/bootstrap-profiles/ (for individual profiles)
+https://bootstrapmade.com/bizland-bootstrap-business-template/ (for home page)
+https://colorlib.com/etc/regform/colorlib-regform-3/ (for sign up page)
 
 ## What this project does
 Book’d is a website where students meet into groups of up to 5 people to form a study session. Users would create an account and rank their proficiency level on a subject, beginner, intermediate, or advanced. From there, students can browse profiles to meet other students that share their interests, and they may then chat with them to form a group to study with. Once students have completed a study session, they can rate how their experience was with the group formed. This feedback system will give users an average rating, so that people know who and who not to study with during their time on Book'd.
@@ -19,3 +19,6 @@ We are proud of learning how to utilize the tools used to create our project. Si
 
 ## What is next for this project
 We plan to continue adding to this project by further customizing the webpages to make them more sleek, adding an integrated-chatting interface, and using machine learning algorithms to display profiles that would most suit the user.
+
+# TO USE
+Run first-signup-page.html under book-d/Webpages/Sign-up_and_Log-in_Pages OR try it out here: https://proudrug91.qoom.space/10PiHackspage/Webpages/Sign-up_and_Log-in_Pages/first-signup-page.html.
